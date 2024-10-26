@@ -6,5 +6,5 @@ this is the change i made to this file.
 var myVar = "你好，世界！";
 ```
 - [x] List syntax is required
-- [ ] This item is complete
+- [x] This item is complete
 - [ ] This item is not complete
